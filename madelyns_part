@@ -2,3 +2,8 @@
 Name and NETID: Linsey, Madelyn, Jessica
 Date: Oct 13. 2021
 """
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+asians = pd.read_csv('Final_Report_of_the_Asian_American_Quality_of_Life__AAQoL_.csv')
