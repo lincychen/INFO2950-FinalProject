@@ -1,0 +1,29 @@
+Group: Lincy Chen (lyc26), Jessica Kuang (jk2464), Christina Koo (bk368)
+Class: INFO 2950
+Date: Tues. Sep 14
+Assignment: Project Phase I Planning
+
+
+---
+
+Link to Github repository: https://github.com/lincychen/INFO2950-FinalProject.git
+
+Dataset Ideas:
+
+This project will revolve around analyzing Asian American quality of life data polled from the city of Austin, TX. Its purpose will be to provide substantial insight and project the different kinds of behaviors and trends of Asian and Asian-Americans exhibited in global cities. The dataset lists several quantitative measures for quality of life for Asians and Asian Americans living in Austin, TX, such as marital status, household size, religion, employment, and income. 
+Data is available at [https://data.austintexas.gov/City-Government/Final-Report-of-the-Asian-American-Quality-of-Life/hc5t-p62z]. It can be downloaded as a CSV. 
+
+This project is about the teen birth rates for females based on age, race, and Hispanic origin. The purpose of this project would be to see how teen pregnancy affects different girls from varying backgrounds. This project could also be combined with data from organizations like Planned Parenthood, to see if there’s a correlation between the two datasets. Recorded data includes the age, race, and whether or not the women come have a Hispanic origin. 
+Data is available at [https://catalog.data.gov/dataset/nchs-teen-birth-rates-for-females-by-age-group-race-and-hispanic-origin-united-states-0ebbf] It can be downloaded as a CSV.
+
+This project will entail analysis of New York county hate crime data against demographics and vulnerable populations dating back to 2010. This project’s purpose is to understand whether certain NY communities are more susceptible to hate crimes than others. Recorded data includes a measure of the number of victims, number of offenders, type of bias motivation, and type of victim.
+Data is available at [https://catalog.data.gov/dataset/hate-crimes-by-county-and-bias-type-beginning-2010]. It can be downloaded as a CSV. 
+
+
+
+Questions for Reviewers:
+Is it not a good idea to use a certain dataset if many entries have zeroes?
+What determines a good dataset?
+What are the different ways that a pre-existing dataset can be used on this project?
+Of the above datasets, which will be the easiest dataset to work with on this project?
+What is the criteria for how clean the dataset should be?
